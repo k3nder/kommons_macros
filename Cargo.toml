@@ -1,0 +1,10 @@
+[package]
+name = "kommons_macros"
+version = "0.1.0"
+edition = "2021"
+authors = [ "k3nder" ]
+description = "a set of macros with utils"
+license = "GPL-3.0-only"
+
+
+[dependencies]
